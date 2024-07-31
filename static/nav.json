@@ -9,7 +9,7 @@
 		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
 	}, {
 		"name": "镜像网站导航",
-		"href": "http://www.dayanzai.me/",
+		"href": "https://hellowindows.cn/",
 		"desc": "镜像网站导航",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
@@ -18,9 +18,9 @@
 		"desc": "绿软、汉化软件分享",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件分享",
+		"name": "指南",
+		"href": "https://yingheapp.com/",
+		"desc": "硬化指南",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
 		"name": "殁漂遥",
@@ -148,19 +148,19 @@
 		"desc": "主流新闻站热点当日集合",
 		"logo": "static/icons/tophub.today.png"
 	},{
-		"name": "优设导航",
-		"href": "https://hao.uisdc.com/",
-		"desc": "一个优秀的设计师导航站",
-		"logo": "https://hao.uisdc.com/favicon.ico"
+		"name": "Youtube",
+		"href": "https://www.youtube.com/",
+		"desc": "全球最大视频网站",
+		"logo": "https://www.youtube.com//favicon.ico"
 	},{
-		"name": "堕落了",
-		"href": "https://www.duoluole.com/",
-		"desc": "年轻态友好向网址导航",
+		"name": "Instagram",
+		"href": "https://www.instagram.com/",
+		"desc": "照片墙,简称：ins或IG",
 		"logo": "static/icons/duoluole.com.png"
 	},{
-		"name": "炫猿导航",
-		"href": "https://oo1.win/",
-		"desc": "一个炫酷的多功能导航站，收录品类丰富",
+		"name": "Snapchat",
+		"href": "https://www.snapchat.com/",
+		"desc": "一个炫酷的多功能图片分享软件应用",
 		"logo": "static/icons/oo1.win.ico"
 	},{
 		"name": "kim导航",
@@ -168,9 +168,9 @@
 		"desc": "不罗嗦的导航，可切换国内外版本",
 		"logo": "static/icons/plopco.com.ico"
 	},{
-		"name": "龙轩导航",
-		"href": "http://ilxdh.com/",
-		"desc": "疯狂影视同属产品，支持登录添加自定义网址",
+		"name": "Quora",
+		"href": "https://www.quora.com/",
+		"desc": "在线问答网站",
 		"logo": "static/icons/ilxdh.com.ico"
 	},{
 		"name": "设计导航",
