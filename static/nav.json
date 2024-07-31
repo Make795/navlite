@@ -4,7 +4,7 @@
 	"icon": "ti-download",
 	"sites": [{
 		"name": "Tech-Catfish Blog",
-		"href": "https://blog.tech-catfish.cloudns.ch/",
+		"href": "https://www.tech-catfish.cloudns.ch/",
 		"desc": "Small Blog",
 		"logo": "static/icons/blog_seo_optimization_search_icon_192465.ico"
 	}, {
