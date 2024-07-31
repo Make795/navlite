@@ -418,4 +418,14 @@
 		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
 		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
 	}]
+}, {
+	"_id": "blog_1",
+	"classify": "优秀博客1",
+	"icon": "ti-medall-alt",
+	"sites": [{
+		"name": "Rat's Blog ",
+		"href": "https://www.moerats.com/",
+		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
+		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
+	}]
 }]
