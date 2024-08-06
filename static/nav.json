@@ -415,17 +415,17 @@
 	}]
 }, {
 	"_id": "blog",
-	"classify": "优秀博客",
+	"classify": "TV",
 	"icon": "ti-medall-alt",
 	"sites": [{
 		"name": "Tech-Catfish Blog",
-		"href": "https://www.tech-catfish.cloudns.ch/",
+		"href": "https://github.com/lizhe0326/tvbox?tab=readme-ov-file",
 		"desc": "Small Blog",
-		"logo": "static/icons/blog_seo_optimization_search_icon_192465.ico"
+		"logo": "static/icons/pixabay.com.png"
 	}]
 }, {
 	"_id": "blog",
-	"classify": "优秀博客1",
+	"classify": "优秀博客",
 	"icon": "ti-medall-alt",
 	"sites": [{
 		"name": "Tech-Catfish Blog",
